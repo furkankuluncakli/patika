@@ -1,2 +1,2 @@
-#Deneme
--Önceki derslerde öğrenilen çalışmalar tekrar edildi.
+# Deneme
+- Önceki derslerde öğrenilen çalışmalar tekrar edildi.
